@@ -1,0 +1,484 @@
+Car ID,Brand,Year,Engine Size,Fuel Type,Transmission,Mileage,Condition,Price,Model
+1,BMW,2019,3.978411454,Hybrid,Automatic,37400,Used,14805731,X5
+2,Tesla,2019,3.94306155,Hybrid,Manual,42774,New,12020680,Model X
+3,Tesla,2024,5.988185473,Petrol,Automatic,17383,Like New,16178544,Model Y
+4,Toyota,2019,2.5,Electric,Manual,35564,Used,3164393.83,Corolla
+5,Mercedes,2019,4.524681296,Electric,Automatic,41833,New,9549127,GLA
+6,Mercedes,2024,5.542368137,Electric,Manual,8079,Used,14751859,GLA
+7,BMW,2021,3,Petrol,Manual,14661,Like New,1785661.55,5 Series
+8,Mercedes,2019,3.799364618,Diesel,Manual,6111,Used,18050854,C-Class
+9,Audi,2019,5.459889747,Hybrid,Manual,28893,New,19996037,Q3
+10,Tesla,2024,4.234682471,Diesel,Automatic,27318,Like New,5846345,Model 3
+11,Hyundai,2023,1.6,Hybrid,Manual,11479,Like New,1827394.65,Creta
+12,BMW,2019,3.978411454,Hybrid,Automatic,37400,Used,14805731,X5
+13,Audi,2025,4.713976449,Hybrid,Automatic,36241,New,14828073,Q7
+14,BMW,2023,3,Hybrid,Automatic,38977,New,1161064.14,5 Series
+15,Mercedes,2025,3.534173281,Electric,Manual,46270,New,6735903,C-Class
+16,Jeep,2022,1.7,Petrol,Manual,47439,New,3822712.34,Compass
+17,Mercedes,2025,4.699434792,Petrol,Automatic,15355,Like New,16065566,E-Class
+18,BMW,2024,3.499222924,Diesel,Automatic,34615,New,13297635,X5
+19,Tesla,2025,3.571100404,Electric,Manual,46978,New,17371987,Model Y
+20,Mercedes,2022,2.7,Petrol,Manual,5164,Like New,3156726.85,C-Class
+21,Tesla,2019,6.383122369,Hybrid,Automatic,21207,Like New,15100511,Model S
+22,BMW,2022,2.8,Diesel,Automatic,101429,New,2508227.08,5 Series
+23,Tesla,2022,2.6,Hybrid,Automatic,24407,Used,817406.94,Model X
+24,BMW,2019,3.668363325,Hybrid,Manual,44041,Used,19118577,X3
+25,Audi,2025,5.690106127,Diesel,Automatic,8273,New,16756415,Q5
+26,Tesla,2025,5.433706767,Petrol,Automatic,12983,New,13776396,Model Y
+27,Mercedes,2019,3.375244119,Hybrid,Manual,13697,Like New,9481094,GLC
+28,Tesla,2019,3.680071427,Petrol,Automatic,40026,Like New,9795609,Model 3
+29,Tesla,2025,4.935851882,Diesel,Manual,46087,Used,5699760,Model S
+30,Tesla,2019,5.798778681,Hybrid,Manual,22100,New,19192357,Model Y
+31,Mercedes,2024,6.255932604,Electric,Automatic,14690,Like New,17284823,GLA
+32,Audi,2024,4.32699359,Electric,Automatic,47516,New,6183591,Q7
+33,BMW,2024,3.961747798,Petrol,Manual,14523,New,19949443,i4
+34,Mercedes,2024,4.688894995,Electric,Manual,37905,New,17157485,E-Class
+35,Tesla,2022,2.8,Petrol,Manual,113266,New,2778167.64,Model X
+36,Tesla,2023,3.3,Petrol,Automatic,117303,New,2794740.45,Model Y
+37,Mercedes,2019,6.120843582,Diesel,Manual,39387,New,5914974,GLA
+38,Tesla,2024,4.687935495,Petrol,Manual,6179,Used,7069067,Model X
+39,Toyota,2019,2.5,Electric,Manual,35564,Used,3164393.83,Corolla
+40,Skoda,2024,2.5,Petrol,Automatic,70511,Used,895284.75,Octavia
+41,Audi,2019,3.716884303,Diesel,Automatic,13146,Like New,16395025,Q7
+42,Tesla,2024,4.264784849,Diesel,Manual,12675,Used,19825623,Model S
+43,Audi,2019,4.966019688,Electric,Automatic,29814,New,14509699,Q5
+44,Tesla,2025,4.910946755,Diesel,Manual,30844,Like New,13276439,Model Y
+45,Tesla,2019,3.549411141,Electric,Automatic,35957,Like New,12868669,Model 3
+46,Mercedes,2020,2.2,Petrol,Automatic,94953,Like New,2061958.01,GLC
+47,Tata,2025,1.5,Petrol,Manual,57848,Like New,2063313.34,Nexon EV
+48,Audi,2024,4.824159984,Petrol,Automatic,48143,Used,15244726,Q7
+49,Audi,2025,4.603853516,Petrol,Automatic,18507,New,17968832,Q7
+50,Mahindra,2023,2.8,Petrol,Manual,97083,Like New,2161978.24,Scorpio N
+51,Mercedes,2025,5.20813537,Hybrid,Automatic,26924,Used,17392204,GLC
+52,BMW,2024,3.001437142,Petrol,Automatic,11143,New,11629447,3 Series
+53,Audi,2019,5.626811696,Diesel,Automatic,19043,Like New,12013672,A4
+54,Mercedes,2025,3.921541666,Electric,Manual,23440,Used,7569874,C-Class
+55,Mercedes,2019,3.425739246,Petrol,Automatic,37485,Like New,17025064,GLA
+56,Mercedes,2019,6.277662271,Hybrid,Manual,22119,New,14193711,C-Class
+57,BMW,2019,5.433356554,Hybrid,Automatic,23809,Like New,9048276,5 Series
+58,Mahindra,2020,1.5,Hybrid,Manual,105673,Used,3039931.23,XUV700
+59,Mercedes,2019,4.109821684,Hybrid,Manual,28679,Like New,10699313,C-Class
+60,Tesla,2019,6.383122369,Hybrid,Automatic,21207,Like New,15100511,Model S
+61,Mercedes,2024,5.908313894,Hybrid,Manual,39973,Used,7151497,GLA
+62,Tesla,2019,5.470156907,Diesel,Manual,39082,New,6831425,Model S
+63,Tesla,2025,6.169047028,Petrol,Manual,21026,Used,14551691,Model X
+64,Jeep,2020,2.8,Diesel,Manual,101080,Like New,782390.64,Compass
+65,Kia,2022,2.3,Hybrid,Automatic,104986,Like New,3188384.19,Seltos
+66,BMW,2019,3.978411454,Hybrid,Automatic,37400,Used,14805731,X5
+67,Tesla,2025,4.462114319,Petrol,Automatic,6881,New,13908366,Model X
+68,Tesla,2019,5.13356467,Petrol,Manual,38929,Used,7439735,Model X
+69,Honda,2020,2.7,Diesel,Automatic,51627,Used,1708631.12,CR-V
+70,Audi,2020,1.1,Diesel,Manual,60965,New,4335115.91,A4
+71,Mercedes,2019,6.191802369,Electric,Manual,15839,New,14853501,GLA
+72,Audi,2019,3.854461635,Electric,Manual,21144,Used,17642244,A6
+73,Mercedes,2023,1.7,Petrol,Manual,64566,Like New,2696733.73,C-Class
+74,Audi,2022,2,Petrol,Automatic,46426,New,1070229.66,Q5
+75,Audi,2024,5.735675644,Hybrid,Automatic,30947,Used,17808681,A6
+76,Honda,2022,3.4,Electric,Automatic,69160,Used,1847990.39,CR-V
+77,BMW,2024,4.661836043,Hybrid,Automatic,27592,New,6225061,i4
+78,Tata,2022,1.6,Petrol,Manual,5930,Used,3780209.65,Harrier
+79,Tesla,2024,6.048816991,Hybrid,Manual,19259,Like New,8600800,Model X
+80,Audi,2025,3.498655285,Diesel,Manual,19386,New,16291323,Q5
+81,Tesla,2019,3.680071427,Petrol,Automatic,40026,Like New,9795609,Model 3
+82,Tesla,2025,4.910946755,Diesel,Manual,30844,Like New,13276439,Model Y
+83,Hyundai,2023,1.6,Hybrid,Automatic,95066,Used,3858699.31,Venue
+84,Tesla,2019,6.341697826,Hybrid,Automatic,21118,New,13564201,Model S
+85,Tesla,2019,5.13356467,Petrol,Manual,38929,Used,7439735,Model X
+86,Tesla,2022,2.1,Electric,Automatic,86297,Used,3968251.47,Model X
+87,Audi,2020,1.7,Hybrid,Manual,41785,Like New,4287928.95,A4
+88,Mercedes,2025,3.527555202,Electric,Automatic,7274,Like New,8596024,GLC
+89,Tesla,2019,3.978329568,Diesel,Automatic,36374,Like New,6515380,Model S
+90,MG,2025,1.8,Petrol,Manual,56300,Like New,1612591.9,Astor
+91,BMW,2019,3.757157251,Diesel,Automatic,26235,New,16262080,X3
+92,Toyota,2022,1.2,Petrol,Automatic,45486,Like New,3694384.76,Innova
+93,Tesla,2023,1.1,Electric,Automatic,88420,Like New,1206059.68,Model X
+94,BMW,2025,3.852558509,Hybrid,Manual,33445,New,10714746,X5
+95,Kia,2025,2.7,Electric,Manual,96334,Used,3769562.88,Carens
+96,BMW,2019,6.241629237,Hybrid,Manual,9077,Like New,15286816,5 Series
+97,Hyundai,2025,3.1,Electric,Manual,22283,Like New,1649961.3,Verna
+98,Hyundai,2019,3.1,Petrol,Manual,18638,Used,4022647.02,Creta
+99,Mercedes,2024,5.198232083,Diesel,Automatic,10026,Used,16250279,GLC
+100,Mercedes,2021,1.1,Petrol,Manual,102179,Like New,4040009.27,GLC
+101,Honda,2020,1.8,Petrol,Automatic,117916,New,2706727.74,Civic
+102,BMW,2022,1.5,Petrol,Automatic,13425,Used,2778929.75,X5
+103,Mercedes,2019,4.610315213,Diesel,Manual,15048,Used,17501586,GLC
+104,BMW,2025,3.161064822,Diesel,Manual,31923,Used,15330395,i4
+105,BMW,2024,5.586825641,Petrol,Automatic,38847,Like New,14011264,5 Series
+106,Audi,2025,4.549872672,Hybrid,Automatic,5296,Like New,11138841,Q3
+107,Audi,2019,3.854461635,Electric,Manual,21144,Used,17642244,A6
+108,Audi,2025,4.14635427,Diesel,Automatic,5853,Used,19134315,Q5
+109,Honda,2023,2.8,Petrol,Automatic,62987,Like New,2728072.66,City
+110,Audi,2019,4.4004528,Diesel,Manual,12285,New,9170212,Q5
+111,BMW,2022,3,Diesel,Automatic,83014,Used,4044167.36,5 Series
+112,Tesla,2024,5.35441683,Petrol,Automatic,38736,Used,15855980,Model S
+113,Tesla,2025,4.967891587,Hybrid,Manual,33318,Used,14321368,Model X
+114,Audi,2024,6.492567171,Hybrid,Automatic,40128,Like New,6532775,Q5
+115,BMW,2019,5.147445036,Petrol,Automatic,46424,Like New,11375735,3 Series
+116,Audi,2019,3.211445262,Diesel,Automatic,13304,Like New,15646081,Q3
+117,Mahindra,2023,2.6,Petrol,Automatic,16510,Used,2073786.47,Scorpio N
+118,Toyota,2020,2.3,Petrol,Automatic,101907,Used,1325914.45,Corolla
+119,Toyota,2019,1.6,Petrol,Manual,24060,New,4484465.08,Fortuner
+120,BMW,2019,6.039501454,Hybrid,Manual,38180,Used,15651335,X3
+121,BMW,2019,6.07432527,Diesel,Automatic,25824,Like New,15398219,X5
+122,Mercedes,2025,5.863719035,Electric,Manual,15047,Like New,8615135,C-Class
+123,BMW,2025,4.945569308,Hybrid,Manual,31912,Used,19874772,5 Series
+124,Hyundai,2022,3,Hybrid,Manual,8116,Used,1532191.71,Tucson
+125,Audi,2025,4.883873403,Petrol,Manual,49896,New,6563018,Q7
+126,Audi,2024,6.371530229,Electric,Manual,44292,Used,5930495,Q7
+127,BMW,2024,5.586825641,Petrol,Automatic,38847,Like New,14011264,5 Series
+128,Skoda,2021,1.7,Hybrid,Automatic,2725,Used,3310503.71,Octavia
+129,Mercedes,2019,3.534007166,Hybrid,Automatic,32627,Like New,11666589,E-Class
+130,Jeep,2021,2.7,Petrol,Manual,33462,New,700215.19,Meridian
+131,Audi,2019,4.4004528,Diesel,Manual,12285,New,9170212,Q5
+132,Tesla,2025,4.223854494,Diesel,Manual,42201,Like New,5492397,Model X
+133,Hyundai,2020,3.3,Petrol,Automatic,72052,Like New,898656.95,Tucson
+134,Mercedes,2019,3.487581475,Petrol,Automatic,41000,Like New,14853161,C-Class
+135,Audi,2020,3.2,Hybrid,Automatic,59885,New,3762899.05,Q7
+136,Honda,2019,2.7,Petrol,Automatic,3168,New,1506454,Civic
+137,Audi,2023,3,Electric,Manual,96575,Used,2293402.18,A4
+138,Toyota,2022,1.5,Petrol,Manual,26777,Used,3592637.86,Innova
+139,Mercedes,2024,3.979967297,Petrol,Manual,8513,New,15063167,C-Class
+140,Hyundai,2023,2.4,Petrol,Manual,109054,New,3622536.06,Tucson
+141,Audi,2019,4.4004528,Diesel,Manual,12285,New,9170212,Q5
+142,Tesla,2024,5.255637771,Diesel,Manual,39170,Used,18996069,Model S
+143,Kia,2025,2.1,Hybrid,Manual,82227,New,3927009.67,Seltos
+144,Mercedes,2020,2.6,Petrol,Manual,5190,New,3107124.99,GLA
+145,Tesla,2021,2.3,Petrol,Manual,85059,New,3015864.36,Model S
+146,Mercedes,2019,4.917443337,Hybrid,Manual,20488,Used,11618850,C-Class
+147,Mahindra,2024,1.9,Hybrid,Automatic,32819,New,2310603.3,XUV700
+148,BMW,2019,3.041961615,Diesel,Manual,26769,Like New,9056311,5 Series
+149,Mercedes,2019,4.175111407,Petrol,Manual,41800,Used,12115849,GLA
+150,BMW,2019,5.229706929,Electric,Manual,5492,Used,8990888,i4
+151,Mercedes,2019,4.774107544,Hybrid,Automatic,26287,Used,12629393,E-Class
+152,Audi,2019,6.026963904,Hybrid,Manual,5828,Used,5783513,A4
+153,Audi,2019,4.016443097,Petrol,Automatic,10082,Used,15731376,Q7
+154,BMW,2019,5.345064816,Diesel,Manual,23994,Like New,15663085,X3
+155,Tesla,2024,5.076294234,Petrol,Manual,29510,New,10639349,Model 3
+156,Kia,2022,2,Petrol,Manual,111070,New,3916852.39,Carens
+157,Mercedes,2019,5.388643167,Diesel,Automatic,13092,Like New,8369138,E-Class
+158,BMW,2019,4.390619667,Electric,Automatic,31898,Used,5549437,X5
+159,Mercedes,2024,6.331414264,Hybrid,Manual,24300,Used,19575537,GLA
+160,BMW,2019,6.473972703,Electric,Manual,12111,Like New,12540855,5 Series
+161,Audi,2020,2.2,Electric,Manual,35362,New,3869188.75,A4
+162,Mercedes,2019,5.388643167,Diesel,Automatic,13092,Like New,8369138,E-Class
+163,BMW,2023,1.9,Petrol,Manual,73957,Used,1353931.3,5 Series
+164,BMW,2025,6.408748966,Diesel,Automatic,38002,Like New,11521500,5 Series
+165,Audi,2025,6.23234469,Diesel,Automatic,34253,New,14914908,Q7
+166,Jeep,2025,2.3,Hybrid,Manual,12838,Used,2562301.49,Meridian
+167,Tesla,2024,4.362241625,Electric,Manual,35122,Like New,11586206,Model Y
+168,Audi,2024,6.189904004,Petrol,Automatic,42398,Used,10712066,Q5
+169,Audi,2024,4.32699359,Electric,Automatic,47516,New,6183591,Q7
+170,Mercedes,2019,4.175111407,Petrol,Manual,41800,Used,12115849,GLA
+171,BMW,2025,4.028349527,Electric,Automatic,35332,New,8777587,3 Series
+172,Honda,2020,1.1,Hybrid,Automatic,50417,Like New,4248221.91,CR-V
+173,Audi,2023,2.5,Electric,Manual,6703,Used,3332043,Q7
+174,Audi,2019,4.016443097,Petrol,Automatic,10082,Used,15731376,Q7
+175,Volkswagen,2022,2.3,Diesel,Manual,38562,Used,3038598.91,Tiguan
+176,Hyundai,2022,2.8,Hybrid,Manual,69548,Used,4494058.58,Verna
+177,Mercedes,2024,4.424766717,Diesel,Automatic,24773,Like New,17686357,E-Class
+178,Mercedes,2024,4.569492115,Diesel,Automatic,34465,New,14327655,E-Class
+179,Mercedes,2019,5.465518103,Electric,Manual,28466,New,7190776,GLA
+180,Audi,2019,5.998646227,Electric,Automatic,34433,Used,18485085,A4
+181,Honda,2020,3.2,Hybrid,Automatic,69765,Like New,3362284.33,City
+182,BMW,2025,5.104015311,Diesel,Automatic,49188,Like New,9688582,X5
+183,Mercedes,2019,6.291673679,Diesel,Automatic,34108,New,8657466,GLA
+184,Audi,2019,6.026963904,Hybrid,Manual,5828,Used,5783513,A4
+185,BMW,2024,5.658783038,Hybrid,Automatic,23417,New,14358943,5 Series
+186,Mercedes,2020,1.4,Petrol,Automatic,22496,Used,2729663.19,GLA
+187,Tesla,2023,2.9,Hybrid,Manual,73913,Used,3558731.92,Model Y
+188,Audi,2025,4.713976449,Hybrid,Automatic,36241,New,14828073,Q7
+189,Audi,2019,3.168784434,Hybrid,Automatic,41513,Used,13347886,A6
+190,Tesla,2025,5.018797837,Electric,Manual,15395,Like New,18190415,Model 3
+191,BMW,2019,3.483165552,Electric,Automatic,36901,Like New,12763080,5 Series
+192,Mercedes,2025,3.902832732,Petrol,Manual,48141,New,10430158,C-Class
+193,MG,2020,2.5,Petrol,Manual,37316,Like New,1136856.74,ZS EV
+194,BMW,2019,5.147445036,Petrol,Automatic,46424,Like New,11375735,3 Series
+195,Audi,2019,3.854461635,Electric,Manual,21144,Used,17642244,A6
+196,Mercedes,2024,3.979967297,Petrol,Manual,8513,New,15063167,C-Class
+197,Tesla,2024,4.497134708,Hybrid,Manual,14561,New,13582714,Model X
+198,Audi,2023,2,Petrol,Manual,1781,Used,1358607.38,A6
+199,Mercedes,2019,5.036949286,Diesel,Automatic,34060,New,13130489,E-Class
+200,Tesla,2025,3.861800124,Electric,Automatic,22067,Used,10052888,Model S
+201,Tesla,2024,3.465273011,Electric,Automatic,20329,New,18258305,Model 3
+202,Tesla,2024,4.264784849,Diesel,Manual,12675,Used,19825623,Model S
+203,Mercedes,2019,3.788979267,Petrol,Automatic,30838,New,7414652,E-Class
+204,Toyota,2019,1.4,Diesel,Automatic,37300,New,852891.75,Innova
+205,BMW,2019,5.433356554,Hybrid,Automatic,23809,Like New,9048276,5 Series
+206,Mercedes,2024,4.424766717,Diesel,Automatic,24773,Like New,17686357,E-Class
+207,Audi,2019,4.016443097,Petrol,Automatic,10082,Used,15731376,Q7
+208,Tesla,2019,4.240666861,Hybrid,Automatic,25046,Used,8772372,Model 3
+209,Hyundai,2021,1.2,Electric,Automatic,96324,Like New,2328508.97,Tucson
+210,Mercedes,2019,3.375244119,Hybrid,Manual,13697,Like New,9481094,GLC
+211,BMW,2025,6.408748966,Diesel,Automatic,38002,Like New,11521500,5 Series
+212,Mercedes,2019,3.534007166,Hybrid,Automatic,32627,Like New,11666589,E-Class
+213,BMW,2019,6.473972703,Electric,Manual,12111,Like New,12540855,5 Series
+214,Tesla,2019,4.469485314,Hybrid,Automatic,18620,Used,18648026,Model 3
+215,Tesla,2019,6.383122369,Hybrid,Automatic,21207,Like New,15100511,Model S
+216,Audi,2019,5.579564319,Petrol,Manual,24241,Like New,16252507,Q3
+217,BMW,2019,6.094538083,Hybrid,Manual,22174,Like New,9787312,i4
+218,Tesla,2024,4.362241625,Electric,Manual,35122,Like New,11586206,Model Y
+219,Tesla,2024,4.362241625,Electric,Manual,35122,Like New,11586206,Model Y
+220,BMW,2024,3.764972825,Diesel,Automatic,32564,Like New,15427277,X3
+221,Mercedes,2025,3.902832732,Petrol,Manual,48141,New,10430158,C-Class
+222,Audi,2024,6.0004137,Petrol,Automatic,15917,Used,9496818,Q3
+223,Tesla,2024,5.988185473,Petrol,Automatic,17383,Like New,16178544,Model Y
+224,Jeep,2023,1.6,Petrol,Manual,4296,Used,1485634.62,Compass
+225,Mercedes,2024,5.368015575,Hybrid,Automatic,39323,Like New,19698599,C-Class
+226,Audi,2019,5.626811696,Diesel,Automatic,19043,Like New,12013672,A4
+227,Audi,2025,5.501716743,Diesel,Manual,46442,Like New,7800654,A4
+228,Tesla,2025,3.50815223,Electric,Automatic,19423,Like New,7248321,Model S
+229,BMW,2020,3.3,Diesel,Automatic,109376,Like New,4471733.51,X3
+230,Audi,2025,3.988166212,Petrol,Automatic,48078,Used,14170405,Q3
+231,BMW,2023,2.5,Electric,Manual,48778,New,1599361.27,X3
+232,Tesla,2024,5.279739113,Diesel,Automatic,47011,New,9784521,Model X
+233,Tesla,2025,5.018797837,Electric,Manual,15395,Like New,18190415,Model 3
+234,Tesla,2025,3.571100404,Electric,Manual,46978,New,17371987,Model Y
+235,Kia,2020,3.5,Hybrid,Automatic,95787,Used,2898681.1,Carens
+236,Audi,2023,1.3,Hybrid,Manual,87043,New,2579943.54,Q7
+237,Mercedes,2021,3.4,Hybrid,Manual,77850,New,2567381.02,C-Class
+238,Tesla,2019,4.112679655,Electric,Automatic,17258,Like New,10374595,Model S
+239,Mercedes,2019,6.291673679,Diesel,Automatic,34108,New,8657466,GLA
+240,Tesla,2025,4.935851882,Diesel,Manual,46087,Used,5699760,Model S
+241,Tesla,2019,6.062199084,Petrol,Automatic,37438,Like New,8158842,Model X
+242,Mahindra,2023,1.3,Hybrid,Automatic,68922,New,3753756.37,XUV700
+243,Mercedes,2019,5.434313571,Diesel,Manual,9262,New,15961178,E-Class
+244,Toyota,2019,1.4,Diesel,Automatic,37300,New,852891.75,Innova
+245,BMW,2025,4.536164369,Hybrid,Automatic,27814,Used,7914916,3 Series
+246,Volkswagen,2024,2.2,Petrol,Manual,84003,New,3707721.04,Tiguan
+247,BMW,2025,5.27041562,Petrol,Automatic,39337,New,10419728,X3
+248,BMW,2025,4.083447,Diesel,Manual,10426,Like New,9435269,3 Series
+249,Audi,2024,3.453758924,Diesel,Manual,18554,Like New,12036791,A4
+250,Mahindra,2024,2.8,Diesel,Manual,45702,Used,3328662.75,XUV700
+251,Tesla,2019,4.469485314,Hybrid,Automatic,18620,Used,18648026,Model 3
+252,Mercedes,2019,4.283137679,Diesel,Automatic,40485,Used,16813064,C-Class
+253,Tesla,2019,5.559285227,Electric,Manual,27267,Used,13698753,Model S
+254,Tesla,2019,3.050741422,Hybrid,Automatic,40591,Used,13801058,Model X
+255,Mercedes,2019,6.370071316,Hybrid,Automatic,44817,Used,7791055,GLA
+256,Toyota,2022,1.9,Hybrid,Manual,74304,Like New,2574434.24,Innova
+257,Mercedes,2019,6.191802369,Electric,Manual,15839,New,14853501,GLA
+258,Audi,2019,5.579564319,Petrol,Manual,24241,Like New,16252507,Q3
+259,Mercedes,2025,5.518279273,Hybrid,Manual,37461,Like New,10829446,GLC
+260,Tata,2024,2.3,Diesel,Automatic,77474,New,2941872.58,Harrier
+261,Toyota,2021,2.3,Hybrid,Manual,74066,Used,3349269.61,Innova
+262,Honda,2021,3.1,Petrol,Automatic,30948,New,3327593.62,Civic
+263,BMW,2019,4.178830034,Hybrid,Automatic,25273,Like New,12584676,3 Series
+264,Honda,2025,3.3,Electric,Manual,73002,New,2978750.36,Civic
+265,Tesla,2022,2.1,Electric,Manual,13545,Like New,2076124.95,Model Y
+266,Mercedes,2019,4.51097118,Hybrid,Automatic,18235,New,15588091,E-Class
+267,Mercedes,2019,4.49385749,Diesel,Manual,40576,Used,13992427,GLA
+268,Tata,2023,2.3,Petrol,Manual,14561,Used,1312095.05,Nexon EV
+269,Mercedes,2019,3.115202983,Hybrid,Manual,48711,Like New,15480513,GLA
+270,Audi,2019,4.538840179,Petrol,Automatic,27534,Like New,14711588,Q7
+271,Tesla,2019,4.112679655,Electric,Automatic,17258,Like New,10374595,Model S
+272,Skoda,2021,1.4,Electric,Manual,70571,New,1941685.77,Octavia
+273,Tesla,2021,1.3,Electric,Manual,38902,New,1455453.37,Model S
+274,Mercedes,2021,2.5,Hybrid,Automatic,37080,Like New,1925600.56,E-Class
+275,Mercedes,2024,6.06706509,Hybrid,Automatic,6481,New,6237581,E-Class
+276,Mercedes,2024,6.06706509,Hybrid,Automatic,6481,New,6237581,E-Class
+277,BMW,2024,5.495497232,Diesel,Automatic,16690,Like New,13231996,3 Series
+278,Audi,2025,4.549872672,Hybrid,Automatic,5296,Like New,11138841,Q3
+279,BMW,2025,3.80100587,Diesel,Automatic,30611,Like New,5987303,i4
+280,BMW,2025,6.408748966,Diesel,Automatic,38002,Like New,11521500,5 Series
+281,BMW,2019,3.659576794,Petrol,Automatic,39774,Like New,16143813,5 Series
+282,Toyota,2022,1.9,Hybrid,Automatic,67875,Like New,2347849.58,Innova
+283,BMW,2022,2.4,Petrol,Manual,4055,Used,3601281.58,X3
+284,BMW,2020,2.4,Electric,Manual,53391,New,1314364.51,5 Series
+285,Honda,2022,3.4,Electric,Automatic,69160,Used,1847990.39,CR-V
+286,BMW,2023,2.2,Hybrid,Manual,106823,Like New,2139087.69,5 Series
+287,Honda,2019,2,Diesel,Automatic,62943,Like New,4076605.77,CR-V
+288,Mercedes,2024,3.979967297,Petrol,Manual,8513,New,15063167,C-Class
+289,Mercedes,2024,5.151393137,Diesel,Manual,44591,Like New,17874075,E-Class
+290,BMW,2024,3.001437142,Petrol,Automatic,11143,New,11629447,3 Series
+291,Audi,2025,6.414472841,Electric,Automatic,37988,New,9307259,A4
+292,Mercedes,2019,5.473032688,Hybrid,Manual,13037,Like New,14830792,C-Class
+293,Hyundai,2023,3.1,Petrol,Automatic,65657,Used,2157327.82,Tucson
+294,Mercedes,2025,4.133281344,Hybrid,Automatic,34497,Used,15518801,GLA
+295,Tesla,2019,5.470156907,Diesel,Manual,39082,New,6831425,Model S
+296,MG,2022,2.4,Electric,Automatic,52906,Like New,1844704.92,Astor
+297,BMW,2024,3.847142781,Hybrid,Automatic,48873,Used,7056854,5 Series
+298,Mercedes,2022,1.4,Diesel,Manual,5791,Used,1509336.22,GLA
+299,BMW,2024,3.001437142,Petrol,Automatic,11143,New,11629447,3 Series
+300,Mercedes,2019,4.504495831,Diesel,Automatic,44039,New,9165446,GLC
+301,Tesla,2019,6.062199084,Petrol,Automatic,37438,Like New,8158842,Model X
+302,Toyota,2022,1.1,Diesel,Manual,90585,Used,4178009.78,Camry
+303,Tesla,2023,1.9,Electric,Automatic,96042,Used,955899.4,Model Y
+304,Mercedes,2019,3.07479913,Electric,Manual,47656,Used,8320002,GLC
+305,Mercedes,2019,4.610315213,Diesel,Manual,15048,Used,17501586,GLC
+306,Tesla,2024,6.142094113,Hybrid,Automatic,8445,Used,12337774,Model 3
+307,Honda,2022,3.4,Diesel,Automatic,10293,Like New,2570507.9,CR-V
+308,BMW,2025,6.428263658,Petrol,Manual,29266,Used,12881819,i4
+309,BMW,2025,6.428263658,Petrol,Manual,29266,Used,12881819,i4
+310,Mercedes,2019,3.115202983,Hybrid,Manual,48711,Like New,15480513,GLA
+311,Audi,2019,4.538840179,Petrol,Automatic,27534,Like New,14711588,Q7
+312,Hyundai,2024,2.9,Hybrid,Manual,117992,Like New,2574381.55,Tucson
+313,Mercedes,2023,1.1,Hybrid,Automatic,98947,Like New,2599497.39,C-Class
+314,BMW,2024,6.372416081,Hybrid,Manual,8565,New,8663317,5 Series
+315,Tesla,2019,3.050741422,Hybrid,Automatic,40591,Used,13801058,Model X
+316,Tesla,2024,6.133996605,Electric,Manual,14030,Like New,19026318,Model S
+317,Mercedes,2019,3.589547716,Electric,Manual,47368,New,5500811,E-Class
+318,Audi,2019,5.626811696,Diesel,Automatic,19043,Like New,12013672,A4
+319,Tata,2023,2.8,Petrol,Automatic,42548,New,2945446.87,Nexon EV
+320,Mercedes,2019,4.175111407,Petrol,Manual,41800,Used,12115849,GLA
+321,Tesla,2019,6.062199084,Petrol,Automatic,37438,Like New,8158842,Model X
+322,Jeep,2021,1.2,Petrol,Automatic,73130,Used,1788381.61,Compass
+323,Tesla,2025,4.223854494,Diesel,Manual,42201,Like New,5492397,Model X
+324,Honda,2025,3,Electric,Manual,72940,Used,2277444.49,Civic
+325,Honda,2021,2.5,Electric,Manual,71591,New,2898342.84,City
+326,Mercedes,2019,4.141553079,Diesel,Automatic,29848,New,17316657,GLC
+327,Audi,2024,4.954828824,Hybrid,Automatic,44017,New,15966063,Q7
+328,Audi,2019,4.143509091,Hybrid,Automatic,40236,New,12455576,Q7
+329,Tesla,2025,3.854986259,Petrol,Automatic,10714,Like New,15442305,Model Y
+330,Toyota,2019,3.4,Petrol,Manual,35374,Used,2120228.45,Corolla
+331,BMW,2025,3.629196907,Diesel,Manual,8445,Like New,8861491,i4
+332,Skoda,2024,1.2,Hybrid,Manual,32945,New,1940218.05,Octavia
+333,Mercedes,2019,4.49385749,Diesel,Manual,40576,Used,13992427,GLA
+334,Mercedes,2025,3.108327559,Diesel,Automatic,28489,Used,15569214,GLA
+335,Toyota,2020,3.1,Hybrid,Automatic,43719,Like New,1364246.66,Fortuner
+336,Mercedes,2019,3.742374262,Petrol,Automatic,39762,New,12012592,GLC
+337,Tesla,2025,3.314125073,Electric,Manual,5332,New,15066897,Model 3
+338,Toyota,2024,3.4,Hybrid,Automatic,66971,New,2070210.89,Innova
+339,BMW,2024,3.847142781,Hybrid,Automatic,48873,Used,7056854,5 Series
+340,Tesla,2025,6.092199419,Petrol,Automatic,23670,Like New,16795948,Model X
+341,Honda,2019,3.1,Petrol,Automatic,35908,New,1301352.59,City
+342,BMW,2025,5.903203532,Diesel,Automatic,24933,New,5906843,X5
+343,Audi,2021,3.1,Electric,Manual,100270,New,2588999.74,A4
+344,Mercedes,2025,3.678378412,Diesel,Automatic,7156,New,6585059,GLC
+345,Tesla,2019,3.232967143,Diesel,Automatic,44065,New,16000348,Model 3
+346,Mercedes,2025,6.410165871,Petrol,Automatic,15804,New,8895070,E-Class
+347,BMW,2025,4.478267489,Diesel,Manual,14468,New,14485704,X5
+348,Tesla,2024,3.371050204,Petrol,Manual,27324,Used,11915965,Model Y
+349,Hyundai,2023,2.6,Hybrid,Automatic,70460,Used,3815912.66,Tucson
+350,Audi,2019,5.227244541,Electric,Manual,45138,Used,19503909,Q7
+351,Mercedes,2025,3.678378412,Diesel,Automatic,7156,New,6585059,GLC
+352,Mercedes,2025,5.51142463,Hybrid,Manual,19484,Used,15348145,C-Class
+353,BMW,2019,5.147445036,Petrol,Automatic,46424,Like New,11375735,3 Series
+354,BMW,2025,5.27041562,Petrol,Automatic,39337,New,10419728,X3
+355,Tesla,2019,3.680071427,Petrol,Automatic,40026,Like New,9795609,Model 3
+356,Mercedes,2025,3.817230027,Diesel,Automatic,7428,Like New,13357868,GLA
+357,MG,2020,2.1,Diesel,Manual,96492,Like New,3538631.63,Astor
+358,Tesla,2020,2.2,Hybrid,Manual,105232,New,1599783.25,Model X
+359,BMW,2022,1.5,Hybrid,Automatic,46863,New,1089913.2,X3
+360,Kia,2025,2.9,Hybrid,Manual,99355,Used,2176636.23,Seltos
+361,Tesla,2024,6.046630385,Electric,Automatic,30683,Used,9145370,Model 3
+362,Toyota,2019,1.3,Diesel,Manual,50453,New,4007486.25,Fortuner
+363,Audi,2024,5.210127037,Petrol,Manual,35405,New,8188009,A6
+364,Mercedes,2019,4.504495831,Diesel,Automatic,44039,New,9165446,GLC
+365,Tata,2025,2.8,Electric,Manual,86448,Like New,3536762.02,Nexon EV
+366,Honda,2025,2.7,Hybrid,Manual,87354,Used,4463579.67,City
+367,Tesla,2025,5.493836983,Petrol,Automatic,27803,New,18117930,Model 3
+368,Mercedes,2025,3.450363243,Electric,Automatic,41783,Like New,17675105,GLC
+369,Mercedes,2019,5.343667101,Petrol,Manual,29127,New,16058445,E-Class
+370,BMW,2024,5.495497232,Diesel,Automatic,16690,Like New,13231996,3 Series
+371,Mercedes,2025,5.863719035,Electric,Manual,15047,Like New,8615135,C-Class
+372,Mercedes,2019,4.610315213,Diesel,Manual,15048,Used,17501586,GLC
+373,Audi,2024,6.233692286,Electric,Automatic,14160,Used,17023117,A4
+374,BMW,2019,6.150646565,Electric,Manual,9953,Used,13651248,5 Series
+375,Volkswagen,2020,2.1,Hybrid,Manual,35865,Used,1771211.25,Taigun
+376,Tesla,2024,5.392090501,Electric,Manual,48058,Like New,13703738,Model 3
+377,Audi,2019,4.31601242,Hybrid,Automatic,30296,New,8099303,A6
+378,Mercedes,2024,5.371387948,Diesel,Automatic,47169,Like New,17667405,GLC
+379,BMW,2019,3.668363325,Hybrid,Manual,44041,Used,19118577,X3
+380,Tesla,2024,6.326064916,Diesel,Automatic,44519,Used,19796746,Model X
+381,BMW,2023,1.9,Hybrid,Manual,19730,Used,1523451.2,i4
+382,Tesla,2019,3.94306155,Hybrid,Manual,42774,New,12020680,Model X
+383,BMW,2024,4.002568238,Petrol,Automatic,35930,New,12205670,X3
+384,Audi,2024,4.556557226,Diesel,Manual,30254,New,9267144,A6
+385,BMW,2024,4.725426585,Hybrid,Manual,26209,Like New,7492151,5 Series
+386,Tesla,2022,2.2,Diesel,Automatic,89841,Like New,938212.54,Model 3
+387,Mercedes,2024,6.06706509,Hybrid,Automatic,6481,New,6237581,E-Class
+388,Mercedes,2024,5.368015575,Hybrid,Automatic,39323,Like New,19698599,C-Class
+389,BMW,2025,6.297757512,Diesel,Automatic,6737,New,17453919,X3
+390,Hyundai,2024,2.4,Diesel,Manual,26819,Used,2861910.68,i20
+391,BMW,2024,5.495497232,Diesel,Automatic,16690,Like New,13231996,3 Series
+392,Audi,2021,3.1,Electric,Manual,100270,New,2588999.74,A4
+393,Audi,2025,4.585693989,Hybrid,Manual,16074,New,12485895,Q7
+394,Tesla,2024,3.44976134,Diesel,Automatic,48203,Like New,17248041,Model Y
+395,BMW,2019,4.178830034,Hybrid,Automatic,25273,Like New,12584676,3 Series
+396,Tesla,2024,3.272417659,Electric,Manual,9486,New,19238999,Model 3
+397,Audi,2025,3.39127635,Petrol,Manual,24485,Used,13796365,A6
+398,Tesla,2025,5.018974765,Hybrid,Automatic,47446,Like New,14343579,Model Y
+399,Mercedes,2024,4.852624431,Petrol,Automatic,12793,Like New,17696765,GLC
+400,Audi,2019,5.998646227,Electric,Automatic,34433,Used,18485085,A4
+401,Audi,2023,1.5,Petrol,Automatic,96690,New,3733787.45,Q7
+402,Tesla,2019,3.680071427,Petrol,Automatic,40026,Like New,9795609,Model 3
+403,Audi,2024,3.453758924,Diesel,Manual,18554,Like New,12036791,A4
+404,Tesla,2025,4.935851882,Diesel,Manual,46087,Used,5699760,Model S
+405,Toyota,2023,3,Electric,Manual,103277,Like New,3510094.57,Corolla
+406,MG,2022,2.5,Petrol,Automatic,80347,Like New,1747300.58,Astor
+407,Tesla,2024,5.271543958,Hybrid,Automatic,26586,Like New,16069494,Model Y
+408,Mahindra,2023,2.7,Hybrid,Manual,11310,Used,1000685.84,Scorpio N
+409,Audi,2025,4.603853516,Petrol,Automatic,18507,New,17968832,Q7
+410,Mercedes,2019,6.125474623,Hybrid,Manual,25651,Used,6593018,GLC
+411,Tesla,2025,6.092199419,Petrol,Automatic,23670,Like New,16795948,Model X
+412,Audi,2024,3.259726728,Petrol,Manual,42469,Like New,15659498,A6
+413,Audi,2019,5.626811696,Diesel,Automatic,19043,Like New,12013672,A4
+414,Volkswagen,2022,1.6,Hybrid,Automatic,53533,New,3203608.83,Tiguan
+415,Tesla,2024,6.046630385,Electric,Automatic,30683,Used,9145370,Model 3
+416,Audi,2024,4.954828824,Hybrid,Automatic,44017,New,15966063,Q7
+417,Mercedes,2024,3.126213729,Petrol,Manual,20539,New,16981972,GLC
+418,Mahindra,2022,2.6,Petrol,Manual,93206,Like New,3912987.68,XUV700
+419,Toyota,2021,3.1,Hybrid,Manual,4789,New,4161872.61,Fortuner
+420,Audi,2024,3.370487302,Diesel,Manual,30167,Like New,18310033,Q3
+421,BMW,2025,6.297757512,Diesel,Automatic,6737,New,17453919,X3
+422,MG,2025,2.7,Hybrid,Automatic,67512,New,859704.31,Hector
+423,Mercedes,2025,5.20813537,Hybrid,Automatic,26924,Used,17392204,GLC
+424,Tesla,2024,6.142094113,Hybrid,Automatic,8445,Used,12337774,Model 3
+425,Audi,2019,6.026963904,Hybrid,Manual,5828,Used,5783513,A4
+426,Honda,2021,3.1,Petrol,Manual,83906,Like New,1502937.19,City
+427,Hyundai,2019,3.3,Electric,Manual,86123,Like New,3092111.81,Tucson
+428,Tesla,2019,4.469485314,Hybrid,Automatic,18620,Used,18648026,Model 3
+429,Audi,2019,4.957926487,Electric,Automatic,15019,Used,15975400,Q5
+430,Mercedes,2019,6.374762577,Petrol,Manual,21660,Used,17930319,GLC
+431,Mercedes,2019,5.388643167,Diesel,Automatic,13092,Like New,8369138,E-Class
+432,Kia,2025,3.1,Petrol,Automatic,99416,Like New,4093418.44,Sonet
+433,BMW,2021,1.8,Petrol,Automatic,105530,Like New,3250417.82,i4
+434,Audi,2019,3.624756222,Electric,Automatic,41852,Used,5073411,A6
+435,Mercedes,2024,5.612367897,Hybrid,Automatic,47298,Like New,13181125,GLA
+436,Kia,2021,3.3,Diesel,Manual,78449,Used,2917899.15,Sonet
+437,Tesla,2024,4.362241625,Electric,Manual,35122,Like New,11586206,Model Y
+438,Tesla,2019,3.874575595,Hybrid,Automatic,20261,Like New,6861920,Model S
+439,Tesla,2019,6.481926582,Hybrid,Manual,41037,New,14293097,Model Y
+440,BMW,2019,6.241629237,Hybrid,Manual,9077,Like New,15286816,5 Series
+441,Tesla,2019,4.112679655,Electric,Automatic,17258,Like New,10374595,Model S
+442,Audi,2019,5.459889747,Hybrid,Manual,28893,New,19996037,Q3
+443,Mercedes,2019,6.420464033,Electric,Manual,45585,Like New,10370240,E-Class
+444,Audi,2025,5.673085488,Electric,Automatic,15142,Used,5351605,A6
+445,Tata,2020,1.7,Petrol,Automatic,54018,New,1915149.05,Safari
+446,Audi,2019,5.971368765,Diesel,Manual,25862,Used,19116550,Q3
+447,Tesla,2024,4.919468398,Hybrid,Manual,10191,New,18141319,Model X
+448,Tesla,2019,5.559285227,Electric,Manual,27267,Used,13698753,Model S
+449,Tesla,2025,5.018974765,Hybrid,Automatic,47446,Like New,14343579,Model Y
+450,Hyundai,2019,1.2,Petrol,Manual,39777,Used,2536745.65,Verna
+451,Mercedes,2024,5.40520761,Electric,Automatic,29015,Used,16150720,GLC
+452,Hyundai,2022,3.1,Petrol,Automatic,12745,Like New,2654077.47,Verna
+453,BMW,2019,3.246791824,Petrol,Manual,47959,New,16797140,3 Series
+454,Audi,2019,3.716884303,Diesel,Automatic,13146,Like New,16395025,Q7
+455,Audi,2019,6.026963904,Hybrid,Manual,5828,Used,5783513,A4
+456,Audi,2020,1.4,Electric,Manual,23915,New,3029036.59,A6
+457,Tesla,2025,4.005187156,Electric,Manual,48950,Used,9423489,Model X
+458,Audi,2019,4.966019688,Electric,Automatic,29814,New,14509699,Q5
+459,BMW,2019,6.039501454,Hybrid,Manual,38180,Used,15651335,X3
+460,Mercedes,2020,1.6,Diesel,Automatic,98464,New,4394429.43,E-Class
+461,BMW,2025,3.584760541,Petrol,Automatic,32600,Used,13394088,5 Series
+462,Tesla,2019,5.827673939,Hybrid,Automatic,30523,New,15313225,Model S
+463,Mercedes,2023,2,Diesel,Manual,76325,Like New,4004792.4,GLA
+464,Tesla,2019,3.94306155,Hybrid,Manual,42774,New,12020680,Model X
+465,Audi,2024,6.459342311,Diesel,Automatic,39980,New,19316276,Q3
+466,Kia,2020,1.1,Petrol,Manual,75246,Used,2383358.66,Carens
+467,Mercedes,2019,3.534007166,Hybrid,Automatic,32627,Like New,11666589,E-Class
+468,Tesla,2024,6.489753775,Petrol,Automatic,48470,New,8020195,Model X
+469,Audi,2025,4.837764052,Diesel,Automatic,13506,New,7491389,Q5
+470,Hyundai,2023,3.1,Hybrid,Manual,39592,Like New,952061.7,Venue
+471,Audi,2024,3.67136839,Petrol,Manual,10791,New,12877694,Q7
+472,Mahindra,2022,2.5,Electric,Automatic,14094,Used,1373781.91,Scorpio N
+473,Mercedes,2020,1.1,Diesel,Manual,47352,Used,4100932.42,GLC
+474,Audi,2019,5.227244541,Electric,Manual,45138,Used,19503909,Q7
+475,BMW,2025,5.022562833,Hybrid,Manual,10453,Used,7994087,X5
+476,Audi,2024,4.207796711,Petrol,Manual,48194,Like New,19523857,A6
+477,Tesla,2024,3.465273011,Electric,Automatic,20329,New,18258305,Model 3
+478,BMW,2019,3.991064871,Diesel,Automatic,40022,Used,16045807,5 Series
+479,Audi,2023,3.4,Hybrid,Manual,13348,New,3303137.47,Q7
+480,Tesla,2024,4.637393439,Petrol,Automatic,39574,New,13702565,Model 3
+481,Audi,2024,3.453791218,Diesel,Automatic,25717,New,16505884,A6
+482,Skoda,2025,1.6,Hybrid,Manual,94047,Used,1970183.25,Slavia
+483,Kia,2019,2,Diesel,Manual,93287,Used,1888448.79,Carens
