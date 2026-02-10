@@ -1,4 +1,3 @@
-
 import streamlit as st
 import pandas as pd
 import pickle
@@ -6,7 +5,7 @@ import pickle
 # --- PAGE CONFIG ---
 st.set_page_config(page_title="AI Car Predictor", layout="wide")
 
-# --- CUSTOM CSS (Preserving your exact styles) ---
+# --- CUSTOM CSS ---
 st.markdown("""
     <style>
     .centered-header { text-align: center; margin-bottom: 0px; }
@@ -58,14 +57,17 @@ def load_assets():
             m = pickle.load(f)
         with open('ui_data.pkl', 'rb') as f:
             u = pickle.load(f)
-        return m, u
+        # Load dataset to get model names
+        data = pd.read_csv('DATASET CAR PRICE.csv')
+        data.columns = data.columns.str.strip()
+        return m, u, data
     except:
-        return None, None
+        return None, None, None
 
 
-model_assets, ui_data = load_assets()
+model_assets, ui_data, df = load_assets()
 
-# --- BRAND IMAGES (Your exact dictionary) ---
+# --- BRAND IMAGES ---
 brand_images = {
     "Audi": "https://i.pinimg.com/1200x/37/a0/af/37a0aff3f6788360533662a493087491.jpg",
     "BMW": "https://i.pinimg.com/736x/fe/d1/b3/fed1b3844d38e8b87fd8958f406fff70.jpg",
@@ -84,12 +86,17 @@ brand_images = {
     "Default": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1000"
 }
 
-if model_assets and ui_data:
+if model_assets and ui_data and df is not None:
     col1, col2 = st.columns([1, 1], gap="large")
 
     with col1:
         st.subheader("🛠️ Car Specifications")
         brand = st.selectbox("Select Car Brand", ui_data['brands'])
+
+        # --- NEW: MODEL SELECTION ---
+        available_models = sorted(df[df['Brand'] == brand]['Model'].unique().tolist())
+        car_model = st.selectbox("Select Car Model", available_models)
+
         year = st.slider("Registration Year", 2010, 2025, 2020)
         engine = st.number_input("Engine Size (Liters)", 0.5, 8.0, 2.0)
         fuel = st.selectbox("Fuel Type", ui_data['fuel_types'])
@@ -107,25 +114,28 @@ if model_assets and ui_data:
                 'Car ID': [0], 'Brand': [brand], 'Year': [year],
                 'Engine Size': [engine], 'Fuel Type': [fuel],
                 'Transmission': [trans], 'Mileage': [mileage],
-                'Condition': ['Used'], 'Model': ['Standard']
+                'Condition': ['Used'], 'Model': [car_model]  # Changed 'Standard' to car_model
             })
             input_df = input_df[model_assets['feature_names']]
             prediction = model_assets['model'].predict(input_df)[0]
-            st.markdown(f"<div class='prediction-output'>💰 Hybrid Predicted Price: ₹ {prediction:,.2f}</div>",
-                        unsafe_allow_html=True)
+
+            # --- UPDATED OUTPUT TO SHOW MODEL ---
+            st.markdown(f"""
+                <div class='prediction-output'>
+                    <div style='font-size: 18px; color: #a8f0c6;'>{brand} {car_model} ({year})</div>
+                    💰 Predicted Price: ₹ {prediction:,.2f}
+                </div>
+                """, unsafe_allow_html=True)
 
     # --- PERFORMANCE METRICS ---
     st.markdown("---")
     st.markdown("<h3 style='text-align: center;'>📊 Hybrid Model Performance</h3>", unsafe_allow_html=True)
     m_col1, m_col2, m_col3 = st.columns(3)
 
-    with m_col1:
+    with m_col2:
         st.markdown(
             f"<div class='metric-card'><div class='metric-label'>Hybrid Accuracy</div><div class='metric-value'>{model_assets['accuracy']}%</div></div>",
             unsafe_allow_html=True)
-    
+
 else:
     st.warning("⚠️ Files not found. Please run 'train_model.py' first.")
-
-
-
