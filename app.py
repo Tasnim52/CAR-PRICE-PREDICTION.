@@ -119,13 +119,13 @@ if model_assets and ui_data:
     st.markdown("<h3 style='text-align: center;'>📊 Hybrid Model Performance</h3>", unsafe_allow_html=True)
     m_col1, m_col2, m_col3 = st.columns(3)
 
-    
-    with m_col:
+    with m_col1:
         st.markdown(
             f"<div class='metric-card'><div class='metric-label'>Hybrid Accuracy</div><div class='metric-value'>{model_assets['accuracy']}%</div></div>",
             unsafe_allow_html=True)
     
 else:
     st.warning("⚠️ Files not found. Please run 'train_model.py' first.")
+
 
 
