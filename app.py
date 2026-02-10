@@ -4,7 +4,7 @@ import pandas as pd
 import pickle
 
 # --- PAGE CONFIG ---
-st.set_page_config(page_title="Hybrid AI Car Predictor", layout="wide")
+st.set_page_config(page_title="AI Car Predictor", layout="wide")
 
 # --- CUSTOM CSS (Preserving your exact styles) ---
 st.markdown("""
@@ -45,7 +45,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # --- HEADER ---
-st.markdown("<h1 class='centered-header'>🏎️ Hybrid AI Car Price Predictor 🏎️</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='centered-header'>🏎️ AI Car Price Predictor 🏎️</h1>", unsafe_allow_html=True)
 st.markdown("<p class='centered-quote'>\"Integrating 6 ML Algorithms into one Hybrid Ensemble System\"</p>",
             unsafe_allow_html=True)
 
@@ -119,18 +119,13 @@ if model_assets and ui_data:
     st.markdown("<h3 style='text-align: center;'>📊 Hybrid Model Performance</h3>", unsafe_allow_html=True)
     m_col1, m_col2, m_col3 = st.columns(3)
 
-    with m_col1:
-        st.markdown(
-            f"<div class='metric-card'><div class='metric-label'>Algorithms Used</div><div class='metric-value'>6 Models</div></div>",
-            unsafe_allow_html=True)
-    with m_col2:
+    
+    with m_col:
         st.markdown(
             f"<div class='metric-card'><div class='metric-label'>Hybrid Accuracy</div><div class='metric-value'>{model_assets['accuracy']}%</div></div>",
             unsafe_allow_html=True)
-    with m_col3:
-        st.markdown(
-            f"<div class='metric-card'><div class='metric-label'>Mean Squared Error</div><div class='metric-value'>{model_assets['mse']:,.0f}</div></div>",
-            unsafe_allow_html=True)
+    
 else:
     st.warning("⚠️ Files not found. Please run 'train_model.py' first.")
+
 
